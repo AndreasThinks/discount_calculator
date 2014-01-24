@@ -35,8 +35,10 @@
       <file leaf-file-name="discount_calculator_tests.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/discount_calculator_tests.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="0" selection-start="430" selection-end="430" vertical-scroll-proportion="0.32903227" vertical-offset="0" max-vertical-offset="620">
-              <folding />
+            <state line="8" column="38" selection-start="336" selection-end="336" vertical-scroll-proportion="0.21935484" vertical-offset="0" max-vertical-offset="620">
+              <folding>
+                <element signature="e#23#38#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -317,8 +319,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/discount_calculator_tests.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="0" selection-start="430" selection-end="430" vertical-scroll-proportion="0.32903227" vertical-offset="0" max-vertical-offset="620">
-          <folding />
+        <state line="8" column="38" selection-start="336" selection-end="336" vertical-scroll-proportion="0.21935484" vertical-offset="0" max-vertical-offset="620">
+          <folding>
+            <element signature="e#23#38#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

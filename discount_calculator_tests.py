@@ -1,12 +1,9 @@
 __author__ = 'Andreas'
+import unittest
+from discount_calculator import DiscountCalculator
 
-def discount_is(total, discount_amount, discount_type):
-    calc_discount = 0
-    if discount_type == 'dollar':
-        calc_discount = discount_amount
-        return calc_discount
-    elif discount_type == 'percent':
-        calc_discount = total/100*discount_amount
-        return calc_discount
-    else:
-        main(total, discount_amount, raw_input("Please enter discount type as percent or dollar"))
+class DiscountCalculatorTests(unittest.TestCase):
+    def test_ten_percent_discount(self):
+        discount_calculator = DiscountCalculator()
+        result = discount_calculator.calculate(100,10,'percent')
+        self.assertEqual(10.0, result)
