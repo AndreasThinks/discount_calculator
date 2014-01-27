@@ -23,19 +23,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="discount_calculator.py" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="discount_calculator.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/discount_calculator.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="0" selection-start="358" selection-end="358" vertical-scroll-proportion="0.2467742" vertical-offset="0" max-vertical-offset="620">
+            <state line="9" column="0" selection-start="358" selection-end="358" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="discount_calculator_tests.py" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="discount_calculator_tests.py" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/discount_calculator_tests.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="62" selection-start="693" selection-end="693" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="391">
+            <state line="28" column="37" selection-start="1262" selection-end="1262" vertical-scroll-proportion="0.7677419" vertical-offset="0" max-vertical-offset="620">
               <folding>
                 <element signature="e#23#38#0" expanded="true" />
               </folding>
@@ -53,8 +53,8 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/discount_calculator_tests.py" />
         <option value="$PROJECT_DIR$/discount_calculator.py" />
+        <option value="$PROJECT_DIR$/discount_calculator_tests.py" />
       </list>
     </option>
   </component>
@@ -347,19 +347,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/discount_calculator_tests.py">
+    <entry file="file://$PROJECT_DIR$/discount_calculator.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="62" selection-start="693" selection-end="693" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="391">
-          <folding>
-            <element signature="e#23#38#0" expanded="true" />
-          </folding>
+        <state line="9" column="0" selection-start="358" selection-end="358" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/discount_calculator.py">
+    <entry file="file://$PROJECT_DIR$/discount_calculator_tests.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="358" selection-end="358" vertical-scroll-proportion="0.2467742" vertical-offset="0" max-vertical-offset="620">
-          <folding />
+        <state line="28" column="37" selection-start="1262" selection-end="1262" vertical-scroll-proportion="0.7677419" vertical-offset="0" max-vertical-offset="620">
+          <folding>
+            <element signature="e#23#38#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
